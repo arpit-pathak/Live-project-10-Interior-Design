@@ -2,7 +2,6 @@
 
 ## Project 10 🚀 Website's [Live Link](https://interior-designer-pro.netlify.app/)🔗
 
-
 >by Arpit Pathak
 
 Screenshot
